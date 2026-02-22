@@ -6,3 +6,4 @@ struct employee {
     double hours;
 };
 
+"// Lab1 - 22.02.2026" 
